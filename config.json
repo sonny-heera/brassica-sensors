@@ -1,0 +1,27 @@
+{
+  "logging": true,
+  "poll-frequency-minutes": 5,
+  "wifi": {
+    "ssid": "",
+    "password": ""
+  },
+  "light-sensor": {
+    "pin": 0
+  },
+  "i2c": {
+    "sda-pin": 0,
+    "scl-pin": 0
+  },
+  "moisture-sensor": {
+    "pin": 0
+  },
+  "temperature-sensor": {
+    "i2c-id": 0
+  },
+  "mqtt": {
+    "url": "",
+    "user": "",
+    "password": "",
+    "topic": ""
+  }
+}
